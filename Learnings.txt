@@ -1,0 +1,5 @@
+Empty Tag/ Self closing tags -> hr
+Attributes -> add extra data to tags => key value pairs
+Whitespaces -> any spaces will be converted into single spaces
+Doctype = use most modern html version
+Html = root of the document -> always 2 -> head(meta data) & body
